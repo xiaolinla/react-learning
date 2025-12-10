@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+# 个人提交人配置
+# 设置当前项目的提交人名称（仅这个项目生效）
+git config user.name "你的名字"
+# 设置当前项目的提交人邮箱（仅这个项目生效）
+git config user.email "你的个人邮箱"
